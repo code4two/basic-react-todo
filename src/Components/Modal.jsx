@@ -1,6 +1,6 @@
 const Modal = ({ raymond }) => {
   return (
-    <div className="z-30 inset-0 absolute items-center justify-center flex">
+    <div className="z-30 inset-0 fixed items-center justify-center flex">
       <div className="bg-white font-medium text-2xl rounded-md pb-6 pt-4 px-45">
         <p className="text-center pt-4">Are you sure?🤷🏻‍♂️</p>
         <div className="mt-6 flex gap-10">
