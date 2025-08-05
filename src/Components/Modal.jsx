@@ -6,11 +6,11 @@ const Modal = ({ raymond }) => {
         <div className="mt-6 flex gap-10">
           <button
             onClick={raymond}
-            className="py-3 px-8 text-pink-800 border-1 border-pink-800 bg-white shadow-lg rounded-lg cursor-pointer"
+            className="py-2 px-6 text-pink-800 border-1 border-pink-800 bg-white shadow-lg rounded-lg cursor-pointer"
           >
             Cancel
           </button>
-          <button className="py-3 px-8 bg-gray-400 opacity-60 text-white shadow-lg rounded-lg cursor-pointer">
+          <button className="py-2 px-6 bg-gray-400 opacity-60 text-white shadow-lg rounded-lg cursor-pointer">
             Confirm
           </button>
         </div>
