@@ -22,8 +22,8 @@ const Todo = ({ title, text, eniola }) => {
   };
 
   return (
-    <div className="bg-white mb-6 pt-6 md:pt-8 pb-5 md:pb-6 rounded-xl px-8 shadow-md">
-      <h2 className="mb-10 hover:bg-pink-400 hover:block text-4xl md:text-5xl">
+    <div className="bg-white mb-4 md:mb-5 pt-6 md:pt-8 pb-5 md:pb-6 rounded-xl px-8 shadow-md">
+      <h2 className="mb-10 hover:bg-pink-400 hover:block text-3xl md:text-4xl">
         {title}
       </h2>
       <div className="flex justify-between items-center text-2xl md:text-3xl">
