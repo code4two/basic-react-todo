@@ -1,4 +1,4 @@
-# My August App
+# Basic React Todo App
 
 Developed this project to learn the fundamentals of React this August 2025.
 
