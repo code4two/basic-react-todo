@@ -6,7 +6,7 @@ function App() {
     <div className="bg-gray-300">
       <div className="font-bold flex-col items-center p-8 text-5xl md:text-6xl ">
         <h1 className="mb-6 md:mb-8">My Todos</h1>
-        <h3 className="text-3xl text-center mb-6 py-2 md:text-5xl border-l-6 rounded-lg border-green-800">
+        <h3 className="text-3xl text-center mb-6 py-2 md:text-5xl border-l-6 rounded-lg border-pink-800">
           My React Roadmap🤗
         </h3>
 
