@@ -11,12 +11,12 @@ function App() {
         </h3>
 
         <Todo title="Learn TailwindCSS" text="Task 1" eniola="Delete" />
-        <Todo title="Master Js Basics" text="Task 2" eniola="Undo" />
+        <Todo title="Master Js Basics" text="Task 2" eniola="Delete" />
         <Todo title="Component, Props, State" text="Task 3" eniola="Delete" />
         <Todo title="Emoji & React Icons" text="Task 4" eniola="Delete" />
-        <Todo title="Learn React Hooks" text="Task 5" eniola="Undo" />
+        <Todo title="Learn React Hooks" text="Task 5" eniola="Delete" />
         <Todo title="Learn Routing" text="Task 6" eniola="Delete" />
-        <Todo title="API Integration" text="Task 7" eniola="Undo" />
+        <Todo title="API Integration" text="Task 7" eniola="Delete" />
         <Todo title="State Management" text="Task 8" eniola="Delete" />
         <Todo title="Typescript" text="Task 9" eniola="Delete" />
         <Todo title="Testing" text="Task 10" eniola="Delete" />
