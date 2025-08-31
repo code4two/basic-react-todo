@@ -13,7 +13,7 @@ const Todo = ({ title, text, eniola }) => {
 
   const deleteHandler = () => {
     setShowModal(true);
-    console.log("Yes! You just clicked the Delete Button😁");
+    console.log("Yes!! You just clicked the Delete Button😁");
   };
 
   const cancelHandler = () => {
