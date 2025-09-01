@@ -22,7 +22,13 @@ function App() {
         <Todo title="Testing" text="Task 10" eniola="Delete" />
         <Todo title="Performance Optimization" text="Task 11" eniola="Delete" />
         <Todo title="Deployment" text="Task 12" eniola="Delete" />
-        <Todo title="Testing" text="Task 13" eniola="Delete" />
+        <Todo title="Build Projects" text="Task 13" eniola="Delete" />
+        <Todo title="Internships" text="Task 14" eniola="Delete" />
+        <Todo
+          title="Endorsment & Certification"
+          text="Task 15"
+          eniola="Delete"
+        />
       </div>
     </div>
   );
