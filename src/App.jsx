@@ -22,6 +22,7 @@ function App() {
         <Todo title="Testing" text="Task 10" eniola="Delete" />
         <Todo title="Performance Optimization" text="Task 11" eniola="Delete" />
         <Todo title="Deployment" text="Task 12" eniola="Delete" />
+        <Todo title="Testing" text="Task 13" eniola="Delete" />
       </div>
     </div>
   );
